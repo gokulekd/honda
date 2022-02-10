@@ -1,0 +1,465 @@
+*{
+    margin: 0;
+
+}
+
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(16, 190, 190);
+}
+
+.Main_logo{
+    float: left;
+    height: 80px;
+    width: 200px;
+}
+
+.header_menu{
+    float: left;
+      width: 912px;
+    height: 80px;
+ background-color:#36353B;
+    display:flex;
+}
+
+.header_menu a{
+    font-size: 17px;
+    padding-top: 30px;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #fff;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+}
+
+.last_header{
+    width: 330px;
+    height: 80px;
+ background-color:#36353B;
+     float: left;
+     display:flex;
+}
+.last_header a{
+    font-size: 17px;
+    padding-top: 30px;
+    padding-left: 32px;
+    text-decoration: none;
+    color: #fff;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+}
+.last_header img{
+        padding-left: 40px;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    padding-top: 27px;
+    cursor: pointer;
+
+}
+.menu{
+    border-left: 1px solid #fff;
+    width: 75px;
+    height: 80px;
+    float: left;
+    background-color: #36353B;
+}
+.menu img{
+    cursor: pointer;
+     
+    width: 45px;
+    padding-left: 18px;
+    padding-top: 15px;
+
+}
+.second{
+    width: 100%;
+    height: 80px;
+
+    padding-top: 30px;
+ 
+
+}
+.second a{
+ font-size: 21.06px;
+ padding-left: 650px;
+ color: rgb(194,0,0);
+ font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+font-weight:bold;
+
+}
+.first_image{
+    margin-left: 120px;
+    width: 1280px;
+    height: 641.9px;
+border: 0.5px solid gray;
+box-shadow: #36353B;
+
+}
+.first_image1{
+    width: 852.66px;
+     height: 641.9px;
+     float:left;
+    
+}
+
+.first_image2{
+
+    padding-left: 171px;
+    padding-top: 44px;
+
+  
+}
+.word{
+   padding-top: 135px;
+    float: left;
+    padding-left: 46px;
+    font-size: 36px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+
+}
+.seperation_afterMainImage{
+    float: left;
+
+    width: 100%;
+    height: 62.7px;
+ 
+  
+
+}
+.seperation_afterMainImage a{
+    float: left;
+    font-family:AvenirNext-Medium, Helvetica, Arial,sans-serif;
+    color: #C20000;
+   padding-left: 650px;
+     padding-top: 40px;
+
+    font-size:21.06px ;
+   text-decoration: none;
+
+}
+.Image_box{
+  
+width: 100%;
+height: 203px;
+display: flex;
+
+  
+ 
+}
+.Image_box img{
+    float: left;
+     width: 280px;
+    height: 180px;
+     padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+   
+ 
+}
+.letter{
+width: 100%;
+height: 20px;
+
+ display: flex;
+
+
+}
+.word1{
+    padding-left: 105px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+}
+.word2{
+    padding-left: 223px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+}
+.word3{
+    padding-left: 223px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+}
+.word4{
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+    padding-left: 223px;
+}
+.word5{
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+    padding-left: 235px;
+}
+.second_image{
+    margin-top: 130px;
+    margin-left: 150px;
+    width: 1200px;
+    height: 282.9px;
+border-bottom: 0.5px solid gray;
+box-shadow: #36353B;
+border-top: 0.5px solid gray;
+
+
+
+}
+.second_image1{
+    width: 802px;
+     height: 250px;
+     float:left;
+    
+}
+
+.second_image2{
+
+    padding-left: 171px;
+    padding-top: 44px;
+
+  
+}
+.word_in_image2{
+     padding-left: 820px;
+     color: #666;
+    padding-top: 1px;
+    font-size: 18px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+
+   
+}
+.second_image h2{
+    margin-bottom: 25px;
+    font-size: 2.25em;
+    font-weight: normal;
+        font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+        padding-left: 830px;
+
+}
+.innvovation{
+       width: 100%;
+    height: 95px;
+    float: left;
+    text-align: center;
+    font-weight: normal;
+    font-size: 2em;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+    padding-top: 50px;
+}
+.next_menu{
+     width: 800;
+    height: 40px;
+    float: left;
+text-align: center;
+margin-left: 345px;
+    
+}
+.next_menu p{
+    font-size: 18PX;
+        padding-bottom: 15px;
+    color: #666;
+    text-decoration: none;
+    display: flex;
+    float: left;
+    padding-left: 50px;
+        font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+        padding-bottom: 15px;
+
+}
+.next_menu p:hover{
+    cursor: pointer;
+
+
+    text-decoration: 4px solid underline;
+          color: #c00;
+
+}
+
+.electrification{
+    margin-left: 118px;
+    float: left;
+    margin-top: 50px;
+    width: 1280px;
+    height: 480px;
+
+
+}
+.next_dv_after_electrification{
+
+    width: 100%;
+    height: 150px;
+    float: left;
+
+}
+.next_dv_after_electrification p{
+       font-weight: normal;
+    font-size: 2em;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+   text-align: center;
+   padding-top: 60px;
+}
+.honda_racing{
+    width:1280px ;
+    height:256px;
+    float: left;
+    background-color: blueviolet;
+    margin-left: 120px;
+}
+.heritage_image{
+    float: left;
+    margin-left: 120px;
+    width: 1280px;
+    height: 641.9px;
+border: 0.5px solid gray;
+box-shadow: #36353B;
+background-color: #000;
+
+}
+.heritage_image1{
+    width: 852.66px;
+     height: 641.9px;
+     float:left;
+}
+
+.heritage_image_word{
+    color: white;
+   padding-top: 135px;
+    float: left;
+    padding-left: 46px;
+    font-size: 36px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+
+}
+.NewsRoom{
+
+    margin-left: 146px;
+    width: 1240px;
+    height: 300px;
+    float: left;
+    flex-wrap: wrap;
+
+}
+.NewsRoom img{
+    float: left;
+    width: 120px;
+    height: 90px;
+}
+.section1{
+    float: left;
+ 
+    width: 620px;
+    height: 130px;
+}
+.section2{
+    float: left;
+
+    width: 620px;
+    height: 130px;
+}
+.section3{
+    float: left;
+   
+    width: 620px;
+    height: 130px;
+}
+.section4{
+    float: left;
+
+    width: 620px;
+    height: 130px;
+}
+.NewsRoom p{
+    padding-left: 150px;
+    font-weight: bold;
+    margin-bottom: 1em;
+    font-size: 1.125em;
+    line-height: 1.5555555556;
+    color: #333;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+
+}
+.NewsRoom h4{
+    padding-left: 50px;
+      font-weight:normal;
+    float: left;
+    font-size: 14px;
+    font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+
+}
+.footer{
+ 
+    width: 100%;
+    height: 300px;
+    float: left;
+}
+.footer1{
+    float: left;
+ width: 200px;
+ height: 41px;
+
+ margin-left: 658px;
+}
+.footer1 img{
+    width: 41px;
+    height:41px;
+    padding-left: 10px;
+}
+
+.footer2{
+    float: left;
+ width: 550px;
+ height: 90px;
+
+     padding-top: 20px;
+     padding-left: 550px;
+
+}
+.footer2 input{
+    border-style: none;
+
+    float: left;
+    padding-top: 5px;
+    width: 400px;
+    height: 50px;
+    font-size: 100%;
+        font-family: AvenirNext-Medium, Helvetica, Arial,sans-serif;
+
+}
+.footer2 img{
+width: 40px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.inner_div_of_search{
+    background-color:#fff;
+    width: 480px;
+    height: 59px;
+    float: left;
+
+}
+
+.footer3{
+    float: left;
+ width: 100%;
+ height: 90px;
+
+
+
+}
+.footer3 img{
+    float: left;
+    width: 153px;
+    height: 33px;
+padding-top: 10px;
+padding-left: 667px;
+
+}
+.footer4{
+    display:flex ;
+    float: left;
+ width: 800px;
+ height: 41px;
+
+ padding-left: 383px;
+
+}
+.footer4 ul{
+    font-size: 14px;
+    color:#666666 ;
+    font-family:AvenirNext-Medium, Helvetica, Arial,sans-serif; ;
+    display: flex;
+    float: left;
+
+}
